@@ -35,18 +35,23 @@ date; for i in $(ls  /<home-dir>/config/experiments/dgdrl/|grep -i test );do ech
 ```
 
 ## Results
-a) **Safety measures during unexpected events.**  
+
+a) **Model Comparision**  
+
+<img src="results/Result.PNG" alt="Model Comparision" width="750px">
+
+b) **Safety measures during unexpected events.**  
 
 <img src="results/safty.png" alt="Safety measures during unexpected events" width="750px">
 
-b) **Model’s ability to generalize beyond its training environment**  
+c) **Model’s ability to generalize beyond its training environment**  
 
 <img src="results/lanechange.png" alt="Model’s ability to generalize beyond its training environment" width="750px">
 
-c) **Exploring Unseen States: Success and Failures**  
+d) **Exploring Unseen States: Success and Failures**  
 <img src="results/tunnels.png" alt="Exploring Unseen States: Success and Failures" width="750px">
 
-d) **Handling traffic lights**  
+e) **Handling traffic lights**  
 <img src="results/redlight.png" alt="Handling traffic lights" width="750px">
 
 
