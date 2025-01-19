@@ -1,0 +1,12 @@
+env_name: nocrash_dense_t05_wtrain_v5.yaml
+description: "SAC with AE in empty env."
+n_steps: -1
+moving_window: 50
+warmup_steps: 1500 
+start_remembering: 7
+evaluate_average_episodes: 10
+evaluate_frequency_steps: 10
+host: "127.0.0.1"
+port: 2000
+tm_port: 8010
+seed: 1
