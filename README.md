@@ -1,4 +1,4 @@
-# Towards Generalized and Safer Urban Navigation Using Diffusion-Enhanced Deep Reinforcement Learning
+# Towards Generalized and Safer Urban Autonomous Navigation Using Diffusion-Enhanced Deep Reinforcement Learning
 <img src="results/time.png" alt="Time 1" width="900px">
 <p style="font-size: 14px; font-weight: normal; text-align: center;">	Sequential observations at different intervals show minimal scene changes and nearly identical actions between closely spaced frames. This suggests that small variations in observations help regulate vehicle behavior, which contributes to the development of a generalized solution.</p>
 
