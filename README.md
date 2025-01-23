@@ -35,6 +35,7 @@ date; for i in $(ls  /<home-dir>/config/experiments/dgdrl/|grep -i test );do ech
 ```
 
 * The testing configuration files are available at config/experiments/dgdrl.
+```
 test-dense_t03_wnew.yaml
 test-dense_t04_wnew.yaml
 test-dense_t05_wnew.yaml
