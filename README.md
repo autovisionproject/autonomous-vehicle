@@ -33,6 +33,37 @@ Training Model:
 Testing Model:
 date; for i in $(ls  /<home-dir>/config/experiments/dgdrl/|grep -i test );do echo $i;python main.py -en dgdrl -vm -ttc $i -ow;done;date
 ```
+* The testing configuration files are available at config/experiments/dgdrl.
+test-dense_t03_wnew.yaml
+test-dense_t04_wnew.yaml
+test-dense_t05_wnew.yaml
+test-dense_t01_wtrain.yaml
+test-dense_t01_wnew.yaml
+test-dense_t02_wnew.yaml
+test-dense_t02_wtrain.yaml
+test-empty_t01_wnew.yaml
+test-empty_t01_wtrain.yaml
+test-empty_t02_wnew.yaml
+test-empty_t02_wtrain.yaml
+test-empty_t03_wnew.yaml
+test-empty_t04_wnew.yaml
+test-empty_t05_wnew.yaml
+test-regular_t01_wnew.yaml
+test-regular_t01_wtrain.yaml
+test-regular_t02_wnew.yaml
+test-regular_t02_wtrain.yaml
+test-regular_t03_wnew.yaml
+test-regular_t04_wnew.yaml
+test-regular_t05_wnew.yaml
+test-regular_t03_wtrain.yaml
+test-regular_t04_wtrain.yaml
+test-regular_t05_wtrain.yaml
+test-empty_t03_wtrain.yaml
+test-empty_t04_wtrain.yaml
+test-empty_t05_wtrain.yaml
+test-dense_t03_wtrain.yaml
+test-dense_t04_wtrain.yaml
+test-dense_t05_wtrain.yaml
 
 ## Results
 
