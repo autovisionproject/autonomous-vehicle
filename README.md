@@ -34,8 +34,9 @@ Testing Model:
 date; for i in $(ls  /<home-dir>/config/experiments/dgdrl/|grep -i test );do echo $i;python main.py -en dgdrl -vm -ttc $i -ow;done;date
 ```
 
-* Test Scenarios: The table below lists the YAML configuration files used for testing various scenarios.
-```
+## Test Scenarios
+The table below lists the YAML configuration files used for testing various scenarios.
+
 | **Dense Tests**                   | **Regular Tests**                  | **Empty Tests**                  |
 |-----------------------------------|-------------------------------------|----------------------------------|
 | test-dense_t03_wnew.yaml          | test-regular_t01_wtrain.yaml       | test-empty_t01_wnew.yaml        |
@@ -49,7 +50,7 @@ date; for i in $(ls  /<home-dir>/config/experiments/dgdrl/|grep -i test );do ech
 | test-dense_t04_wtrain.yaml        | test-regular_t05_wtrain.yaml       | test-empty_t05_wnew.yaml        |
 | test-dense_t05_wtrain.yaml        |                                   | test-empty_t05_wtrain.yaml      |
 
-```
+
 ## Results
 
 a) **Model Comparision**  
