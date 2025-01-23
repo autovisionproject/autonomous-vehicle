@@ -35,7 +35,8 @@ date; for i in $(ls  /<home-dir>/config/experiments/dgdrl/|grep -i test );do ech
 ```
 
 ## Test Scenarios
-The table below lists the YAML configuration files used for testing various scenarios.
+The table below lists the YAML configuration files used for testing various scenarios. 
+Source dir: config/experiments/dgdrl
 
 | **Dense Tests**                   | **Regular Tests**                  | **Empty Tests**                  |
 |-----------------------------------|-------------------------------------|----------------------------------|
