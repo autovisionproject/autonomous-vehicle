@@ -48,8 +48,6 @@ The table below lists the YAML configuration files used for testing various scen
 | test-dense_t02_wtrain.yaml        | test-regular_t03_wtrain.yaml       | test-empty_t04_wnew.yaml        |
 | test-dense_t03_wtrain.yaml        | test-regular_t04_wtrain.yaml       | test-empty_t04_wtrain.yaml      |
 | test-dense_t04_wtrain.yaml        | test-regular_t05_wtrain.yaml       | test-empty_t05_wnew.yaml        |
-| test-dense_t05_wtrain.yaml        |                                   | test-empty_t05_wtrain.yaml      |
-
 
 ## Results
 
