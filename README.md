@@ -71,6 +71,5 @@ e) **Handling traffic lights**
 ## 🙏 Acknowledgement
 This repo is built upon the following projects:
 
-1. [rlfold](https://github.com/DanielCoelho112/rlfold)
-
+1. [rlfold](https://github.com/DanielCoelho112/rlfold)  
 2. [carla-roach](https://github.com/zhejz/carla-roach)
