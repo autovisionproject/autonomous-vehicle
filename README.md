@@ -68,7 +68,9 @@ e) **Handling traffic lights**
 <img src="results/redlight.png" alt="Handling traffic lights" width="750px">
 
 
-# 🙏 Acknowledgement
+## 🙏 Acknowledgement
 This repo is built upon the following projects:
-[rlfold](https://github.com/DanielCoelho112/rlfold)
-[carla-roach](https://github.com/zhejz/carla-roach)
+
+1. [rlfold](https://github.com/DanielCoelho112/rlfold)
+
+2. [carla-roach](https://github.com/zhejz/carla-roach)
