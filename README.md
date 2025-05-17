@@ -51,21 +51,21 @@ Source dir: config/experiments/dgdrl
 
 a) **Model Comparision**  
 
-<img src="results/Result.PNG" alt="Model Comparision" width="750px">
+<img src="results/Result.PNG" alt="Model Comparision" width="650px">
 
 b) **Safety measures during unexpected events.**  
 
-<img src="results/safty.png" alt="Safety measures during unexpected events" width="750px">
+<img src="results/safty.png" alt="Safety measures during unexpected events" width="650px">
 
 c) **Model’s ability to generalize beyond its training environment**  
 
-<img src="results/lanechange.png" alt="Model’s ability to generalize beyond its training environment" width="750px">
+<img src="results/lanechange.png" alt="Model’s ability to generalize beyond its training environment" width="650px">
 
 d) **Exploring Unseen States: Success and Failures**  
-<img src="results/tunnels.png" alt="Exploring Unseen States: Success and Failures" width="750px">
+<img src="results/tunnels.png" alt="Exploring Unseen States: Success and Failures" width="650px">
 
 e) **Handling traffic lights**  
-<img src="results/redlight.png" alt="Handling traffic lights" width="750px">
+<img src="results/redlight.png" alt="Handling traffic lights" width="650px">
 
 
 ## 🙏 Acknowledgement
