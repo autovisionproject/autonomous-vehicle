@@ -13,6 +13,7 @@ from importlib import import_module
 
 
 import sys
+#Add "carla-0.9.10-py3.7-linux-x86_64.egg" file to carla/PythonAPI/carla/dist dir.
 sys.path.append('carla/PythonAPI/carla/dist/carla-0.9.10-py3.7-linux-x86_64.egg')
 import os
 import carla
