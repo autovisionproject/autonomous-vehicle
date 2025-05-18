@@ -23,7 +23,7 @@ Install all python3.8 packages as per requirements.txt file.
 Start the CARLA server
 cd /home/ubuntu/carla & ./CarlaUE4.sh --port=2000
 cd ../ 
-
+Add "carla-0.9.10-py3.7-linux-x86_64.egg" file to carla/PythonAPI/carla/dist dir.
 Training Model:
 #python main.py -en dgdrl -vm
 
