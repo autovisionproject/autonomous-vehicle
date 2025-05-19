@@ -1,4 +1,4 @@
-## Beyond the Map: Learning to Navigate Unseen Urban Dynamics Using Diffusion-Guided Deep Reinforcement Learning
+## [IJCAI-25] Beyond the Map: Learning to Navigate Unseen Urban Dynamics Using Diffusion-Guided Deep Reinforcement Learning
 <img src="results/time.png" alt="Time 1" width="800px">
 <p style="font-size: 14px; font-weight: normal; text-align: center;"> Sequential observations at different intervals show minimal changes in subsequent scenes and nearly identical actions between closely spaced frames. This indicates that minor variations in observations do not significantly influence vehicle behavior. Such stability is crucial, as it provides a robust foundation for developing a generalized solution capable of effectively addressing environmental uncertainties.</p>
 
@@ -67,9 +67,13 @@ d) **Exploring Unseen States: Success and Failures**
 e) **Handling traffic lights**  
 <img src="results/redlight.png" alt="Handling traffic lights" width="650px">
 
+## Citation
+* If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
+```
+```
 
 ## 🙏 Acknowledgement
-This repo is built upon the following projects:
+This repo is built upon the following projects. We sincerely appreciate for their contributions.
 
 1. [rlfold](https://github.com/DanielCoelho112/rlfold)  
 2. [carla-roach](https://github.com/zhejz/carla-roach)
