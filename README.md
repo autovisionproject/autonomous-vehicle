@@ -68,12 +68,12 @@ e) **Handling traffic lights**
 <img src="results/redlight.png" alt="Handling traffic lights" width="650px">
 
 ## Citation
-* If you find this paper useful, please consider staring 🌟 this repo and citing 📑 our paper:
+* Please cite this work if you find it useful for your research
 ```
 TBA
 ```
 
-## 🙏 Acknowledgement
+## Acknowledgement
 This repo is built upon the following projects. We sincerely appreciate for their contributions.
 
 1. [rlfold](https://github.com/DanielCoelho112/rlfold)  
