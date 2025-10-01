@@ -70,7 +70,21 @@ e) **Handling traffic lights**
 ## Citation
 * Please cite this work if you find it useful for your research
 ```
-TBA
+@inproceedings{ijcai2025p973,
+  title     = {Beyond the Map: Learning to Navigate Unseen Urban Dynamics Using Diffusion-Guided Deep Reinforcement Learning},
+  author    = {Nagar, Monu and Das, Debasis},
+  booktitle = {Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {James Kwok},
+  pages     = {8750--8758},
+  year      = {2025},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2025/973},
+  url       = {https://doi.org/10.24963/ijcai.2025/973},
+}
+
 ```
 
 ## Acknowledgement
