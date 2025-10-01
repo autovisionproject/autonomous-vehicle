@@ -68,7 +68,7 @@ e) **Handling traffic lights**
 <img src="results/redlight.png" alt="Handling traffic lights" width="650px">
 
 ## Citation
-* Please cite this work if you find it useful for your research
+* Please cite this work if you find it useful for your research.
 ```
 @inproceedings{ijcai2025p973,
   title     = {Beyond the Map: Learning to Navigate Unseen Urban Dynamics Using Diffusion-Guided Deep Reinforcement Learning},
